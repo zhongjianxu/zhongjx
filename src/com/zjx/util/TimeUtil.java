@@ -7,7 +7,7 @@ import java.util.Date;
 public class TimeUtil {
 
 	/***
-	 * »ñÈ¡µ±Ç°Ê±¼ä£¨long¸ñÊ½£©
+	 * è·å–å½“å‰æ—¶é—´ï¼ˆlongæ ¼å¼ï¼‰
 	 * @return
 	 */
 	public long getCurrentTime() {
@@ -15,7 +15,7 @@ public class TimeUtil {
 	}
 	
 	/***
-	 * »ñÈ¡µ±Ç°Ê±¼ä£¨yyyy-MM-dd HH:mm:ss¸ñÊ½£©
+	 * è·å–å½“å‰æ—¶é—´yyyy-MM-dd HH:mm:ssæ ¼å¼
 	 * @return
 	 */
 	public String getFormatTime() {
